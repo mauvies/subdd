@@ -1,0 +1,17 @@
+{
+  "name": "subdd-product",
+  "version": "0.5.0",
+  "description": "Product and business agents and skills: PM, UX research, market research, copywriting, SEO, data analysis and growth.",
+  "author": {
+    "name": "Mauricio Viera"
+  },
+  "keywords": [
+    "product",
+    "prd",
+    "seo",
+    "marketing",
+    "research",
+    "analytics"
+  ],
+  "license": "MIT"
+}

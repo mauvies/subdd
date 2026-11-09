@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "subdd": {
+      "source": { "source": "github", "repo": "mauvies/subdd" }
+    }
+  },
+  "enabledPlugins": {
+    "subdd-core@subdd": true,
+    "subdd-typescript@subdd": true,
+    "subdd-dev@subdd": true,
+    "subdd-aiops@subdd": true
+  },
+  "env": {
+    "SUBDD_BLOCK_GIT_WRITES": "1"
+  }
+}

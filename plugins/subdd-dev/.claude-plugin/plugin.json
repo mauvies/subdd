@@ -1,0 +1,17 @@
+{
+  "name": "subdd-dev",
+  "version": "0.5.0",
+  "description": "Engineering specialist agents and domain skills: frontend, backend, UI/UX, DevOps, databases, security, performance, QA and API design.",
+  "author": {
+    "name": "Mauricio Viera"
+  },
+  "keywords": [
+    "frontend",
+    "backend",
+    "devops",
+    "security",
+    "database",
+    "ux"
+  ],
+  "license": "MIT"
+}

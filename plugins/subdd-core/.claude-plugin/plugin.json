@@ -1,0 +1,15 @@
+{
+  "name": "subdd-core",
+  "version": "0.5.0",
+  "description": "Spec-driven, test-first delivery pipeline with the agents and workflows every project needs.",
+  "author": {
+    "name": "Mauricio Viera"
+  },
+  "keywords": [
+    "spec-driven",
+    "tdd",
+    "code-review",
+    "workflow"
+  ],
+  "license": "MIT"
+}

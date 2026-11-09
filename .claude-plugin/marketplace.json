@@ -1,0 +1,38 @@
+{
+  "name": "subdd",
+  "owner": {
+    "name": "Mauricio Viera"
+  },
+  "metadata": {
+    "description": "Subagent-driven development for Claude Code: spec-driven, test-first agents, skills and workflows with approval gates.",
+    "version": "0.5.0"
+  },
+  "plugins": [
+    {
+      "name": "subdd-core",
+      "source": "./plugins/subdd-core",
+      "description": "Spec-driven, test-first delivery pipeline with approval gates: architect, spec writer, planner, test writer, implementer, reviewer, debugger. Workflows spec, plan, tdd, review, feature, ship, debug."
+    },
+    {
+      "name": "subdd-typescript",
+      "source": "./plugins/subdd-typescript",
+      "description": "TypeScript stack pack: strict typing and style, React/Next.js, Vitest/Playwright, Node backend. Loaded by the subdd agents when installed."
+    },
+    {
+      "name": "subdd-dev",
+      "source": "./plugins/subdd-dev",
+      "description": "Engineering specialists: frontend, backend, UI/UX, DevOps, database, security, performance, QA, API design."
+    },
+    {
+      "name": "subdd-product",
+      "source": "./plugins/subdd-product",
+      "description": "Product and business: PM, UX research, market research, copywriting, SEO, data analysis, growth.",
+      "defaultEnabled": false
+    },
+    {
+      "name": "subdd-aiops",
+      "source": "./plugins/subdd-aiops",
+      "description": "Build the builders: design agents, skills and workflows, engineer prompts, write evals, and scaffold project-specific AI factories."
+    }
+  ]
+}

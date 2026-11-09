@@ -1,0 +1,17 @@
+{
+  "name": "subdd-typescript",
+  "version": "0.5.0",
+  "description": "TypeScript stack pack: strict typing and code style, React/Next.js conventions, Vitest/Playwright testing, Node backend conventions. Loaded automatically by the subdd agents when installed.",
+  "author": {
+    "name": "Mauricio Viera"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "nextjs",
+    "node",
+    "vitest",
+    "biome"
+  ],
+  "license": "MIT"
+}

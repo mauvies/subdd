@@ -1,0 +1,17 @@
+{
+  "name": "subdd-aiops",
+  "version": "0.5.0",
+  "description": "Build the builders: design agents, skills and workflows, engineer prompts, write evals, and scaffold project-specific AI factories and LLM apps.",
+  "author": {
+    "name": "Mauricio Viera"
+  },
+  "keywords": [
+    "agents",
+    "skills",
+    "prompt-engineering",
+    "evals",
+    "llm",
+    "claude-code"
+  ],
+  "license": "MIT"
+}
